@@ -103,6 +103,8 @@
 * [Debug](#debug)
 * [Troubleshooting](#troubleshooting)
 * [Issues](#issues)
+* [TO DO](#to-do)
+* [DONE](#done)
 * [Contributions and Thanks](#contributions-and-thanks)
 * [Contributing](#contributing)
 * [License and credits](#license-and-credits)
@@ -2202,6 +2204,8 @@ Submit issues to: [ESP32_SC_W5500_Manager issues](https://github.com/khoih-prog/
 1. Bug Searching and Killing
 2. Add support to **ESP32_S2 and ESP32_C3-based boards** using `LwIP W5500 Ethernet`
 3. Add support to **ESP32_S2 and ESP32_C3-based boards** using `LwIP ENC28J60 Ethernet`
+
+---
 
 ### DONE
 
